@@ -1,2 +1,2 @@
-# Python_Numpy_Pandas-1-5
+# Python for Data Science
 Курс GeekBrains - Библиотеки Python для Data Science: Numpy, Matplotlib, Scikit-learn
