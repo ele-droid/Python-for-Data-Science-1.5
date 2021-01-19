@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 **/*.csv
+=======
+*.csv
+.ipynb_checkpoints
+>>>>>>> 913a535937bd7bc76f5fe47bf71af62b2735eb2d
